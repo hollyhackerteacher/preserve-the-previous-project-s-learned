@@ -1,0 +1,9 @@
+outputs/*.db
+outputs/*.db-*
+work/*.json
+work/*.jsonl
+work/*.err
+work/*.db
+work/__pycache__/
+outputs/__pycache__/
+*.pyc
